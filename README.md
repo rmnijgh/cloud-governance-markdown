@@ -1,5 +1,4 @@
-Lesson 11: Governance Frameworks
-Robbert Nijgh & Nick Berghegen (DU3A)
+Lesson 11: Governance Frameworks | Robbert Nijgh & Nick Berghegen (DU3A)
 
 
 # AWS Well-Architected Framework
