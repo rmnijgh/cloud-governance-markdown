@@ -65,3 +65,9 @@ Verschillende diensten binnen AWS kunnen hierbij helpen zoals EC2 Spot instances
 In de Cost Optimization pillar bevinden zich richtlijnen die doelen op het efficiënt gebruik maken van je kosten, en deze waar mogelijk te verminderen.
 Cost Optimization zorgt ervoor dat u de waarde van uw cloud-investeringen verhoogt en tegelijkertijd de kosten zo klein mogelijk houdt.
 Dit houdt in dat controles en waarborgen gebruikt moeten worden om de kosten te optimaliseren en onnodige uitgaven te minimaliseren, en toch de prestatie- en betrouwbaarheidseisen van uw systemen wordt voldaan.
+
+
+### Bibliografie
+- The Five Pillars of the Framework - AWS Well-Architected Framework. (n.d.). https://wa.aws.amazon.com/wellarchitected/2020-07-02T19-33-23/wat.pillars.wa-pillars.en.html
+
+
