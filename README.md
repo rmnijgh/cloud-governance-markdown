@@ -1,3 +1,7 @@
+Lesson 11: Governance Frameworks
+Robbert Nijgh & Nick Berghegen (DU3A)
+
+
 # AWS Well-Architected Framework
 Het AWS Well-Architected Framework is een reeks best practices en richtlijnen voor het ontwerpen, bouwen en beheren van
 cloud systemen op het AWS cloudplatform. Het is ontworpen om organisaties te helpen veilige en
