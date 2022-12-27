@@ -67,7 +67,7 @@ Cost Optimization zorgt ervoor dat u de waarde van uw cloud-investeringen verhoo
 Dit houdt in dat controles en waarborgen gebruikt moeten worden om de kosten te optimaliseren en onnodige uitgaven te minimaliseren, en toch de prestatie- en betrouwbaarheidseisen van uw systemen wordt voldaan.
 
 
-### Bibliografie
+## Bibliografie
 - The Five Pillars of the Framework - AWS Well-Architected Framework. (n.d.). https://wa.aws.amazon.com/wellarchitected/2020-07-02T19-33-23/wat.pillars.wa-pillars.en.html
 
 
