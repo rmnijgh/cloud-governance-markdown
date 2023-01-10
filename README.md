@@ -70,6 +70,20 @@ Cost Optimization zorgt ervoor dat u de waarde van uw cloud-investeringen verhoo
 Dit houdt in dat controles en waarborgen gebruikt moeten worden om de kosten te optimaliseren en onnodige uitgaven te minimaliseren, en toch de prestatie- en betrouwbaarheidseisen van uw systemen wordt voldaan.
 
 
+## Voor & Nadelen
+Het well architected framwork van AWS kent een aantal voor en nadelen voor Cloud governance.
+
+Voordelen:
+- Het dekt een ruim aantal onderwerpen welke van belang zijn binnen cloud goverance (i.e. security, betrouwbaarheid, performance en kosten)
+- Het bied een meerdere best practices en richtlijnen voor het bouwen en het beheren van een cloud omgeving.
+
+Nadelen:
+- Het framework is specifiek gemaakt voor het AWS cloud platform is daardoor op sommige vlakken lastig te gebruiken op andere omgevingen.
+- Het dekt wellicht niet alle casussen en eisen die een organisatie heeft. Hierdoor moet de organisatie het bestaande framework uitbreiden met eigen policies.
+
+
+
+
 ## Bibliografie
 - The Five Pillars of the Framework - AWS Well-Architected Framework. (n.d.). https://wa.aws.amazon.com/wellarchitected/2020-07-02T19-33-23/wat.pillars.wa-pillars.en.html
 
